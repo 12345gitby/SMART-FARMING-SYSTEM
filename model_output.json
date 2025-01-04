@@ -1,0 +1,13 @@
+{
+    "model_accuracy": 95.68,
+    "recommended_crop": "mothbeans",
+    "water_required_per_day": 8,
+    "recommended_fertilizer": "Seventeen-Seventeen-Seventeen",
+    "sensor_data": {
+        "nitrogen": 18.0,
+        "phosphorus": 28.857142857142858,
+        "potassium": 10.142857142857142,
+        "temperature": 31.0,
+        "humidity": 33.0
+    }
+}
